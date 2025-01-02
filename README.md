@@ -25,3 +25,5 @@ The app showcases the basics of Android development while providing a fun and in
 📸 Screenshots<br>
 ![Baloo Adventure](imagebaloo/firstpic.png)<br>
 ![Baloo Adventure](imagebaloo/secoundpic.png)<br>
+<br>
+[Watch the video](https://drive.google.com/file/d/1QDT2FZF5eM4RskeMUhPuvhWud0ZA1Bvk/view?usp=sharing)
